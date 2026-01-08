@@ -46,8 +46,7 @@ Pie: plt.pie() with % autopct, adjusted distances.
 
 Figure Sizing: Consistent (10x8 for line, 16x6 for bar, 8x5 for pies).
 
-#**Limitations and Future Work
-**
+#**Limitations and Future Work**
 
 Static years; extend to 2020+ with updated data.
 No stats (e.g., correlations); add regression for forecasts.
